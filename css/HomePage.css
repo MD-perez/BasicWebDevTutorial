@@ -1,0 +1,40 @@
+
+.html,body{
+    background-color: #E7DFD9;
+}
+.Header{
+    background-color: #E7DFD9;
+    color: rgb(0, 0, 0);
+     text-align: center;
+
+}
+.Header-text ul,li{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    display: inline-block;
+    text-indent: 150px;
+    letter-spacing: 5px;
+}
+.HeroBanner{
+    border-style: solid;
+    color: rgb(0, 0, 0);
+    border-width: 3px;
+    padding: px;
+    margin: 20px;
+    
+
+}
+.ETS1 {
+    text-align: start;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+}
+.ProfilePic{
+    border-radius: 0%;
+    width: 500px;
+    height: 500px;
+   
+      margin-left: 800px;
+}
